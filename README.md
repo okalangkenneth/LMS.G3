@@ -15,8 +15,8 @@ We develop a UX using Adobe XD. With the different wireframes we were abl to vis
 
 ### 4.Project structure.
 LMS.G3
-* ├─LMS.API [API for LMS]
-* ├─LMS.ApiTests [Tests for the API]
+1 ├─LMS.API [API for LMS]
+2 ├─LMS.ApiTests [Tests for the API]
 * ├─LMS.Core [belongs to MVC]
 * ├─LMS.Data [belongs to MVC]
 * ├─LMS.Tests [Tests of the MVC]
