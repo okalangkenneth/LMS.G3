@@ -11,7 +11,7 @@ The goal will be to simplify and centralize communication between teacher, the u
 
 ### 3.Project description. 
 The application will have a backend built using C# .NET and MVC Core , the database with Entity Framework, the Front-end using Bootstrap 4 and Javascript. The application will have an API that will intergrate with MVC Core web interface. We will develop an ER diagram that will help us determine the relationships between the entities.  
-We develop a UX using Adobe XD. With the different wireframes we were abl to visualize the different pages in the application and how they were  related to each other. We used Trello and SCRUM to manage the workflow of the project.
+We develop a UX using Adobe XD. With the different wireframes we were able to visualize the different pages in the application and how they were  related to each other. We used Trello and SCRUM to manage the workflow of the project.
 
 ### 4.Project structure.
 LMS.G3
