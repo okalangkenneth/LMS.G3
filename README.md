@@ -7,7 +7,7 @@
 We develop a Learning Management System (LMS) for Lexicon.
 
 ### 2.Goal. 
-The goal will be to simplify and centralize communication between teacher, the university and student by collecting schedules,course materials, exercises, assignments and more information in one place. The system will also be able to call on a database via an API that has information about course material. Students will be able to search this databse and teachers will be able to apply and also edit its contents in a simplified way.
+The goal will be to simplify and centralize communication between teacher, the university and student by collecting schedules,course materials, exercises, assignments and more information in one place. The system will also be able to call on a database via an API that has information about course material. Students will be able to search this database and teachers will be able to apply and also edit its contents in a simplified way.
 
 ### 3.Project description. 
 The application will have a backend built using C# .NET and MVC Core , the database with Entity Framework, the Front-end using Bootstrap 4 and Javascript. The application will have an API that will intergrate with MVC Core web interface. We will develop an ER diagram that will help us determine the relationships between the entities.  
