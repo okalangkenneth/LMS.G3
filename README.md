@@ -15,12 +15,12 @@ We develop a UX using Adobe XD. With the different wireframes we were abl to vis
 
 ### 4.Project structure.
 LMS.G3
-├─LMS.API [API for LMS]
-├─LMS.ApiTests [Tests for the API]
-├─LMS.Core [belongs to MVC]
-├─LMS.Data [belongs to MVC]
-├─LMS.Tests [Tests of the MVC]
-└─LMS.Web [MVC main part]
+* ├─LMS.API [API for LMS]
+* ├─LMS.ApiTests [Tests for the API]
+* ├─LMS.Core [belongs to MVC]
+* ├─LMS.Data [belongs to MVC]
+* ├─LMS.Tests [Tests of the MVC]
+* └─LMS.Web [MVC main part]
 
 ### 4.Project timeline:
 The project took us about 3 weeks beginning 26nd April 2021 and ending 17th May 2021.
