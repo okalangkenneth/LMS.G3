@@ -1,6 +1,8 @@
 # LMS.G3
 Group 3. Lexicon LMS 
+
 Project Description.
+
 1.Introduction:								
 The project is about developing a Learning Management System for Lexicon continuing education.
 
