@@ -1,12 +1,12 @@
 # LMS.G3
-Group 3. Lexicon LMS 
+## Group 3. Lexicon LMS 
 
-Project Description.
+### Project Description.
 
-1.Introduction:								
+### 1.Introduction:								
 The project is about developing a Learning Management System for Lexicon continuing education.
 
-2.Goal: 
+### 2.Goal: 
 The goal will be to simplify and centralize communication between teacher, the university and student by collecting schedules,course materials, exercises, assignments and more information in one place. The system will also be able to call on a database via an API that has information about course material. Students will be able to search this databse and teachers will be able to apply and also edit its contents in a simplified way.
 
 3.Project description: 
