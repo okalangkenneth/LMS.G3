@@ -14,5 +14,5 @@ Adobe XD  will help us develop UX . With the different wireframes we will be abl
 4.Project timeline:
 The project will last about 3 weeks beginning 26nd April 2021 and ends 17th May 2021.
 
- 5. Perticipants.
+5. Perticipants.
 Fadi Mashan, Saiful Mohammad, Alexandru, Victor , Kenneth Okalang,
